@@ -1,0 +1,19 @@
+{
+  "name": "neat_backend",
+  "version": "1.0.0",
+  "description": "neat backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pazindushane/Neat_Backend.git"
+  },
+  "author": "pasindu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pazindushane/Neat_Backend/issues"
+  },
+  "homepage": "https://github.com/pazindushane/Neat_Backend#readme"
+}
